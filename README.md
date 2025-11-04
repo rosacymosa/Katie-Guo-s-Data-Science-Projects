@@ -1,7 +1,7 @@
 Katie Guo's Data Science Projects
 
 
-1. Marketing Analyst (RFM, Clustering, Segmentation, A/B Testing, Data Visualization)
+1. Marketing Analytics (RFM, Clustering, Segmentation, A/B Testing, Data Visualization)
 
 • RFM Analysis: Performed RFM analysis on 50,000+ customer transactions, calculated recency, frequency, and monetary metrics, and segmented customers to implement loyalty rewards for super users, win-back discounts for churned segments, and onboarding offers for the new
 
